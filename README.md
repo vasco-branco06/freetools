@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.svg">
   <img alt="freetools. Open tools for marketing, GTM and AI, for Portugal and Iberia." src="assets/banner-light.svg" width="100%">
 </picture>
 
